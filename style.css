@@ -1,0 +1,8 @@
+.table_head{
+    background-color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 1px solid black;
+}
+.table_body{
+    border: 1px solid grey;
+}
